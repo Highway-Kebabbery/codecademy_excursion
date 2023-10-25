@@ -3,12 +3,14 @@ html, body {
 }
 
 html {
+    display: table;
     margin: auto;
 }
 
 body {
+    display: table-cell;
     background-color: black;
-    margin: auto;
+    vertical-align: middle;
 }
 
 h1 {
@@ -44,5 +46,5 @@ span {
     font-weight: normal;
     font-size: 21px;
     color: gray;
-    margin: right;
+    vertical-align: right;
 }
