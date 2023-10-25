@@ -1,16 +1,5 @@
-html, body {
-    height: 100%;
-}
-
-html {
-    display: table;
-    margin: auto;
-}
-
 body {
-    display: table-cell;
-    background-color: black;
-    vertical-align: middle;
+        background-color: black;
 }
 
 h1 {
@@ -27,11 +16,21 @@ a {
     color: aquamarine;
 }
 
+video {
+    display: block;
+    margin: auto;
+}
+
 h2 {
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
     color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
 
 p {
