@@ -1,6 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    margin: auto;
+}
+
 body {
     background-color: black;
-    margin: 0 auto;
+    margin: auto;
 }
 
 h1 {
