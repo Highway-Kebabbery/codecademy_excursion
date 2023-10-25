@@ -49,5 +49,6 @@ span {
     font-weight: normal;
     font-size: 21px;
     color: gray;
+    display: block;
     text-align: center;
 }
