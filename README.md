@@ -5,13 +5,13 @@
 The importance of this project has more to do with my learning goals than the product itself. I undertook the project as part of Codecademy's course on Git/GitHub. I wanted to learn Git and GitHub for two reason: to post past and future projects in a public setting as I grow my portfolio, as well as to display that I know how to use Git. I believe that prior familiarity with Git will be useful when I take my first software engineering role.
 
 ### Problems Solved by this Project and What I Learned
-This project does not solve any functional, real-world problem. For me personally, however, this project and the course it was set in solved a few problems:
+This project does not solve any functional, real-world problems. For me personally, however, this project and the course it was set in solved a few problems:
 * I learned the basic Git workflow and Git commands
 * I learned how to use Git with a remote repository hosted on GitHub
 * I learned Markdown
 * I learned best practices for a README file.
-* I gained more exposure to HTML and CSS; two technologies which I've only been able to explore through a CMS in the past.
-* I took this Codecademy course specifically to learn Git and GitHub. However, the project was apparently designed to be part of their web development career track. It assumed I already had much more knowledge of HTML and CSS than I actually did. As a result, I got to learn a number of things through Google.
+* I gained more exposure to HTML and CSS; two technologies which I've only been able to explore through a CMS in the past (and plan to expand upon in the future).
+* I took this Codecademy course specifically to learn Git and GitHub. However, the project was apparently designed to be part of their web development career track. It assumed I had much more exposure HTML and CSS than was the case. As a result, I learned almost everything I needed through Google searches. It's a very simple project, but I was relieved not to be spoonfed by Codecademy for once.
 
 ### Future Work
 Naturally I'm left with more questions than answers after finishing this project, and as a scientist I can't help but discuss areas for future work. In the future, I still need to:
