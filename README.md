@@ -25,7 +25,7 @@ Naturally I'm left with more questions than answers after finishing this project
 ![image](demo.gif)
 
 ### How to use
-Using a desktop, or a mobile browser set to "Display Desktop Site," navigate [here](https://highway-kebabbery.github.io/excursion/). <a href="https://highway-kebabbery.github.io/excursion/" target="__blank">here</a>.
+Using a desktop, or a mobile browser set to "Display Desktop Site," navigate [here](https://highway-kebabbery.github.io/excursion/).
 
 ## Technologies
 * HTML: Provides web page structure
