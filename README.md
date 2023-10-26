@@ -18,6 +18,7 @@ Naturally I'm left with more questions than answers after finishing this project
 * Work on a collaborative project. Using `>> git fetch` was a rather uninspiring process knowing that nobody had pushed changes to the remote repository while I was working.
 * Learn more about mobile-first design. I can't say without the full context of the coursework that Codeacademy assumed I had completed before beginning this project, but I assume they intended for this to be a desktop-based web project. I finished the project and everything was acceptable in my laptop's browser. However, I later noticed that the site did not display properly on my mobile phone. Unfortunately, it's outside the scope of my current goals to go back and fix that issue, but I acknowledge it and would like to return to fix it in the future when it's more directly related to my learning goals.
 * Take better screen recordings... ShareX was recommended for capturing/exporting recordings as .gifs, but the quality is bad. When it's important, I'll need to make sure any media is legible.
+* The one major thing I forgot to practice with _this_ project was using pull requests. I used the GitHub Project page to preview the changes I made to the source code. I was moving quickly and glossed over that point. I didn't remember pull requests until my last few commits. In the future, I'll be sure to use pull requests even with my own projects to ingrain myself with the best practices of collaboration.
 
 ## Features
 ### Project Demo
