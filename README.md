@@ -20,10 +20,12 @@ Naturally I'm left with more questions than answers after finishing this project
 * Take better screen recordings... ShareX was recommended for capturing/exporting recordings as .gifs, but the quality is bad. When it's important, I'll need to make sure any media is legible.
 
 ## Features
+### Project Demo
+
 ![image](demo.gif)
 
-How to Use:
-Using a desktop, or a mobile browser set to "Display Desktop Site," navigate [here](https://highway-kebabbery.github.io/excursion/)
+### How to use
+Using a desktop, or a mobile browser set to "Display Desktop Site," navigate [here](https://highway-kebabbery.github.io/excursion/).
 
 ## Technologies
 * HTML: Provides web page structure
