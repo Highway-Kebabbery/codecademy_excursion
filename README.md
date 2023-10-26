@@ -2,7 +2,7 @@
 
 ## Description
 ### General Description and Motivation
-The importance of this project has little to do with the product itself and more to do with my learning goals. I undertook this project as part of Codecademy's course on Git/GitHub. I wanted to learn Git and GitHub for two reason: to post past and future projects in a public setting as I grow my portfolio, as well as to display that I know how to use Git. I anticipate having a lot to learn when I take my first software engineering job, and I wanted to get Git out of the way.
+The importance of this project has more to do with my learning goals than the product itself. I undertook the project as part of Codecademy's course on Git/GitHub. I wanted to learn Git and GitHub for two reason: to post past and future projects in a public setting as I grow my portfolio, as well as to display that I know how to use Git. I believe that prior familiarity with Git will be useful when I take my first software engineering role.
 
 ### Problems Solved by this Project and What I Learned
 This project does not solve any functional, real-world problem. For me personally, however, this project and the course it was set in solved a few problems:
@@ -15,8 +15,9 @@ This project does not solve any functional, real-world problem. For me personall
 
 ### Future Work
 Naturally I'm left with more questions than answers after finishing this project, and as a scientist I can't help but discuss areas for future work. In the future, I still need to:
-* Work on a collaborative project. Using `>> git fetch` was a very unenthusiastic process knowing that nobody had pushed changes to the remote repository while I was working.
+* Work on a collaborative project. Using `>> git fetch` was a rather uninspiring process knowing that nobody had pushed changes to the remote repository while I was working.
 * Learn more about mobile-first design. I can't say without the full context of the coursework that Codeacademy (falsely) assumed I had completed before beginning this project, but I assume they intended for this to be a desktop-based web project. I finished the project and everything was acceptable in my laptop's browser. However, I later noticed that the site did not display properly on my mobile phone. Unfortunately, it's outside the scope of my current goals to go back and fix that issue, but I acknowledge it and would like to return to fix it in the future when it's more directly related to my learning goals.
+* Take better screen recordings... ShareX was recommended for capturing/exporting recordings as .gifs, but the quality is bad. When it's important, I'll need to make sure any media is legible.
 
 ## Features
 ![image](demo.gif)
